@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on internet web baased applications
-- 📫 How to reach me through poornachandrasekharkurasala@gmail.com
+- 📫 How to reach me through poornakurasala@gmail.com
 
 <!---
 poorna25042002/poorna25042002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
